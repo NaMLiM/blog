@@ -4,6 +4,7 @@ layout: post
 permalink: /contact/
 ---
 
-May be a contact form.
-
-Email: <a href="mailto:{{site.email}}">{{site.email}}</a>
+Email       : <a href="mailto:{{site.email}}">{{site.email}}</a>
+Facebook    : [Nafi'ul Anam](https://www.facebook.com/namlim47/)
+Twitter     : [@namlim47](https://twitter.com/namlim47)
+Steam       : [NaMLiM](https://steamcommunity.com/id/NaMLiM/)
