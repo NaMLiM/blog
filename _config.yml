@@ -1,8 +1,8 @@
 ### your site title here
 
-title: Hagura - Light!
+title: NaMLiM - Blog!
 baseurl: / # name of the repository
-email: your@email.com
+email: anamnafiul99@email.com
 
 
 
@@ -12,10 +12,10 @@ markdown: kramdown
 
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-165960487-1
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: namlim-github-io
 
 
 #optimization
