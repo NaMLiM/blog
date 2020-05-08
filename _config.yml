@@ -3,7 +3,7 @@
 title: NaMLiM - Blog!
 baseurl: / # name of the repository
 email: anamnafiul99@email.com
-
+description: NaMLiM Github Blog
 
 
 highlighter: rouge
